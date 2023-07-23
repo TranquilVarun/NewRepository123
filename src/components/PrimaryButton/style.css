@@ -1,0 +1,42 @@
+.primary-button {
+  align-items: center;
+  border-color: var(--dark);
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.primary-button .sign-up {
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.primary-button.green {
+  background-color: var(--colorgreen);
+  border: 2.5px solid;
+  padding: 20px 32px;
+}
+
+.primary-button.yellow {
+  background-color: var(--coloryellow);
+  border: 2px solid;
+  padding: 20px 48px;
+}
+
+.primary-button.green .sign-up {
+  color: var(--white);
+  margin-top: -2.5px;
+}
+
+.primary-button.yellow .sign-up {
+  color: var(--dark);
+  margin-top: -2px;
+}

@@ -1,0 +1,8 @@
+.img-wrapper {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-165deg);
+  width: 44px;
+}

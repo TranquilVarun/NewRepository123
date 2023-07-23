@@ -1,0 +1,30 @@
+.logo {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.logo.thirty-six-px {
+  height: 36px;
+  width: 36px;
+}
+
+.logo.fifty-six-px {
+  height: 56px;
+  width: 56px;
+}
+
+.logo.forty-eight-px {
+  height: 48px;
+  width: 48px;
+}
+
+.logo.twenty-four-px {
+  height: 24px;
+  width: 24px;
+}
+
+.logo.sixty-four-px {
+  height: 64px;
+  width: 64px;
+}

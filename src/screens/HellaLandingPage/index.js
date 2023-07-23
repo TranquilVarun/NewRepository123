@@ -1,0 +1,1 @@
+export { HellaLandingPage } from "./HellaLandingPage";

@@ -1,0 +1,25 @@
+.icon {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.icon.youtube {
+  height: 12px;
+  width: 18px;
+}
+
+.icon.instgram {
+  height: 18px;
+  width: 18px;
+}
+
+.icon.twitter {
+  height: 16px;
+  width: 19px;
+}
+
+.icon.facebook {
+  height: 20px;
+  width: 11px;
+}

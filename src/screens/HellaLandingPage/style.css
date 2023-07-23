@@ -1,0 +1,592 @@
+.hella-landing-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.hella-landing-page .div {
+  background-color: var(--white);
+  border: 1px none;
+  height: 3033px;
+  position: relative;
+  width: 1440px;
+}
+
+.hella-landing-page .footer {
+  background-color: var(--white);
+  height: 530px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2503px;
+  width: 1440px;
+}
+
+.hella-landing-page .copyright-section {
+  align-items: center;
+  background-color: var(--dark);
+  display: flex;
+  gap: 343px;
+  justify-content: center;
+  left: 0;
+  padding: 32px 135px;
+  position: absolute;
+  top: 445px;
+  width: 1440px;
+}
+
+.hella-landing-page .copyright {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.hella-landing-page .copyright-icon {
+  height: 21px;
+  position: relative;
+  width: 21px;
+}
+
+.hella-landing-page .text-wrapper {
+  color: var(--white);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hella-landing-page .about {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 1156px;
+  position: absolute;
+  top: 62px;
+}
+
+.hella-landing-page .text-wrapper-2 {
+  color: var(--dark);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hella-landing-page .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+}
+
+.hella-landing-page .text-wrapper-3 {
+  color: var(--gray-1);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hella-landing-page .text-wrapper-4 {
+  color: var(--gray-1);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hella-landing-page .contact {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 906px;
+  position: absolute;
+  top: 62px;
+}
+
+.hella-landing-page .services {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 603px;
+  position: absolute;
+  top: 62px;
+}
+
+.hella-landing-page .who-we-re-for {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 335px;
+  position: absolute;
+  top: 62px;
+}
+
+.hella-landing-page .social-media-icon {
+  align-items: center;
+  display: inline-flex;
+  gap: 24px;
+  left: 135px;
+  position: absolute;
+  top: 120px;
+}
+
+.hella-landing-page .icon-instance {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.hella-landing-page .design-component-instance-node {
+  height: 15.6px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 19.2px !important;
+}
+
+.hella-landing-page .icon-2 {
+  height: 19.5px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 10.71px !important;
+}
+
+.hella-landing-page .icon-3 {
+  height: 12.14px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 17.55px !important;
+}
+
+.hella-landing-page .logo-instance {
+  left: 135px !important;
+  top: 44px !important;
+}
+
+.hella-landing-page .subscribe-section {
+  background-color: var(--white);
+  border-radius: 24px;
+  height: 337px;
+  left: 44px;
+  overflow: hidden;
+  position: absolute;
+  top: 2054px;
+  width: 1352px;
+}
+
+.hella-landing-page .overlap-group {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/a37d40030d2df3439a4157a82115dae7/img/paper-texture.svg);
+  background-size: 100% 100%;
+  height: 337px;
+  position: relative;
+}
+
+.hella-landing-page .elements {
+  left: 24px !important;
+  top: 260px !important;
+}
+
+.hella-landing-page .primary-button-instance {
+  display: flex !important;
+  height: 61px !important;
+  left: 571px !important;
+  position: absolute !important;
+  top: 226px !important;
+  width: 201px !important;
+}
+
+.hella-landing-page .primary-button-2 {
+  margin-right: -4.5px !important;
+}
+
+.hella-landing-page .paragraph {
+  color: var(--gray-1);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 60px;
+  left: 426px;
+  letter-spacing: 0.6px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 125px;
+  width: 504px;
+}
+
+.hella-landing-page .overlap {
+  height: 72px;
+  left: 284px;
+  position: absolute;
+  top: 37px;
+  width: 823px;
+}
+
+.hella-landing-page .title {
+  color: var(--dark);
+  font-family: "Roboto", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 52px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: 785px;
+}
+
+.hella-landing-page .property-1-line-property-2-small {
+  left: 748px !important;
+}
+
+.hella-landing-page .service-section {
+  height: 1170px;
+  left: 0;
+  position: absolute;
+  top: 804px;
+  width: 1440px;
+}
+
+.hella-landing-page .section {
+  align-items: center;
+  display: inline-flex;
+  gap: 134px;
+  left: 141px;
+  position: absolute;
+  top: 799px;
+}
+
+.hella-landing-page .title-pragraph {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+}
+
+.hella-landing-page .title-pragraph-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.hella-landing-page .p {
+  color: var(--dark);
+  font-family: "Roboto", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: 500px;
+}
+
+.hella-landing-page .paragraph-2 {
+  color: var(--gray-1);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.6px;
+  line-height: 30px;
+  position: relative;
+  width: 504px;
+}
+
+.hella-landing-page .primary-button-3 {
+  flex: 0 0 auto !important;
+}
+
+.hella-landing-page .illustration {
+  height: 311px;
+  position: relative;
+  width: 528px;
+}
+
+.hella-landing-page .section-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 196px;
+  left: 208px;
+  position: absolute;
+  top: 284px;
+}
+
+.hella-landing-page .img {
+  height: 352px;
+  position: relative;
+  width: 397px;
+}
+
+.hella-landing-page .overlap-2 {
+  height: 145px;
+  left: 301px;
+  position: absolute;
+  top: 58px;
+  width: 914px;
+}
+
+.hella-landing-page .property-1-line-property-2-big {
+  left: 808px !important;
+}
+
+.hella-landing-page .title-2 {
+  color: var(--dark);
+  font-family: "Roboto", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  height: 124px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 62.4px;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  width: 838px;
+}
+
+.hella-landing-page .header {
+  background-color: var(--white);
+  height: 804px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.hella-landing-page .buttons {
+  align-items: center;
+  display: inline-flex;
+  gap: 24px;
+  left: 135px;
+  position: absolute;
+  top: 660px;
+}
+
+.hella-landing-page .button {
+  color: var(--dark);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hella-landing-page .head-illustrations {
+  height: 390px;
+  left: 796px;
+  position: absolute;
+  top: 242px;
+  width: 600px;
+}
+
+.hella-landing-page .head-text-shape {
+  height: 391px;
+  left: 120px;
+  position: absolute;
+  top: 193px;
+  width: 639px;
+}
+
+.hella-landing-page .overlap-group-2 {
+  height: 391px;
+  position: relative;
+}
+
+.hella-landing-page .shape {
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 209px;
+  width: 461px;
+}
+
+.hella-landing-page .head-text-paragraph {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 31px;
+  left: 15px;
+  position: absolute;
+  top: 18px;
+}
+
+.hella-landing-page .head-text {
+  color: var(--dark);
+  font-family: "Roboto", Helvetica;
+  font-size: 72px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 93.6px;
+  margin-top: -1px;
+  position: relative;
+  width: 624px;
+}
+
+.hella-landing-page .parapgraph {
+  color: var(--gray-1);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.6px;
+  line-height: 30px;
+  position: relative;
+  width: 527px;
+}
+
+.hella-landing-page .property-1-line-property-2-3-lines {
+  height: 35px !important;
+  left: 546px !important;
+  transform: unset !important;
+  width: 36px !important;
+}
+
+.hella-landing-page .overlap-3 {
+  height: 61px;
+  left: 135px;
+  position: absolute;
+  top: 40px;
+  width: 1168px;
+}
+
+.hella-landing-page .top-head {
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1168px;
+}
+
+.hella-landing-page .menu {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5px;
+  left: 377px;
+  position: absolute;
+  top: 17px;
+}
+
+.hella-landing-page .menus {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 40px;
+  justify-content: center;
+  position: relative;
+}
+
+.hella-landing-page .text-wrapper-5 {
+  color: var(--colorgreen);
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hella-landing-page .text-wrapper-6 {
+  color: var(--gray-1);
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hella-landing-page .element-line {
+  height: 2.5px;
+  position: relative;
+  width: 27px;
+}
+
+.hella-landing-page .login-sign-up {
+  align-items: center;
+  display: inline-flex;
+  gap: 32px;
+  left: 934px;
+  position: absolute;
+  top: 0;
+}
+
+.hella-landing-page .text-wrapper-7 {
+  color: var(--gray-1);
+  font-family: "Roboto", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hella-landing-page .brand-name {
+  color: var(--dark);
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 900;
+  height: 36px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 36.4px;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.hella-landing-page .logo-2 {
+  left: 94px !important;
+  top: 51px !important;
+}
